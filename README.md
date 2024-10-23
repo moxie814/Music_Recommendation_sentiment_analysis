@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # Song Lyrics Sentiment Analysis Using LSTM
 
 This project focuses on performing sentiment analysis on song lyrics using a Long Short-Term Memory (LSTM) neural network. The model predicts whether the sentiment of the lyrics is positive or negative and suggests similar songs based on the user's mood.
