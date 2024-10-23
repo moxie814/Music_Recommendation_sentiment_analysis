@@ -1,4 +1,4 @@
-Here is the complete code for your GitHub `README.md` file for the song lyrics sentiment analysis project:
+
 
 ```markdown
 # Song Lyrics Sentiment Analysis Using LSTM
